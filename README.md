@@ -59,6 +59,11 @@ All health data lives in a single local JSON file (`health-tracker.json`). Suppo
 
 Maintain separate tracker files for family members (e.g., `health-tracker-mom.json`).
 
+## Links
+
+- 🌐 **Landing Page**: [sharkqwy.github.io/health-tracker](https://sharkqwy.github.io/health-tracker/)
+- 🐾 **ClawHub**: Coming soon
+
 ## License
 
 MIT
